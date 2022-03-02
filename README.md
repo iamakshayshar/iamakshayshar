@@ -17,6 +17,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/iamakshayshar/**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakshayshar&show_icons=true&locale=en&layout=compact" alt="iamakshayshar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakshayshar&show_icons=true&locale=en&layout=compact" alt="iamakshayshar" /></p><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakshayshar&show_icons=true&locale=en" alt="iamakshayshar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamakshayshar&" alt="iamakshayshar" /></p>
