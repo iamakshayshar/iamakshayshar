@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SoapUI-Extentter](https://github.com/iamakshayshar/SoapUI-Extentter)
 
-- 🌱 I’m currently learning **Building Automation framwork from scratch**
+- 🌱 I’m currently learning **Playwright for Test Automation**
 
 - 👯 I’m looking to collaborate on **Open source framework & libraries**
 
