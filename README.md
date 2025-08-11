@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakshayshar&label=Profile%20views&color=0e75b6&style=flat" alt="iamakshayshar" /> </p>
 
-- 🔭 I’m currently working on [SoapUI-Extentter](https://github.com/iamakshayshar/SoapUI-Extentter)
+- 🔭 I’m currently working on [Nova-Automation-Framework](https://github.com/iamakshayshar/Nova-Automation-Framework)
 
 - 🌱 I’m currently learning **Playwright for Test Automation**
 
