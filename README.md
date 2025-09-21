@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakshayshar&label=Profile%20views&color=0e75b6&style=flat" alt="iamakshayshar" /> </p>
 
-- 🔭 I’m currently working on [Nova-Automation-Framework](https://github.com/iamakshayshar/Nova-Automation-Framework)
-
+- 🔭 I’m currently working on [Nova-Automation-Framework](https://github.com/iamakshayshar/Nova-Automation-Framework) & [AITestCaseGenerator](https://github.com/iamakshayshar/AITestCaseGenerator)
+  
 - 🌱 I’m currently learning **Playwright for Test Automation**
 
 - 👯 I’m looking to collaborate on **Open source framework & libraries**
