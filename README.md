@@ -174,7 +174,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
 
-<div align="center">
+<div align="left">
 
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
