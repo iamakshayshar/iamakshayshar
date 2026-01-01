@@ -112,21 +112,6 @@
 </tr>
 </table>
 
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div align="left">
-
-* <a href="https://github.com/iamakshayshar/SoapUI-Extentter">SoapUI-Extentter</a><br>
-* <a href="https://github.com/iamakshayshar/AITestCaseGenerator">AITestCaseGenerator</a><br>
-* <a href="https://github.com/iamakshayshar/Nova-Automation-Framework">Nova-Automation-Framework</a><br>
-* <a href="https://github.com/iamakshayshar/Cypress">Cypress</a><br>
-* <a href="https://github.com/iamakshayshar/Alumnium-AI">Alumnium-AI</a>
-
-</div>
-
 ### 📊 Top Repositories
 
 <table>
